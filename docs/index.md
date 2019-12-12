@@ -6,7 +6,7 @@ layout: tabbed-assignment
 
 <!-- img class="overview-image" src="" -->
 
-Describe what students will be doing and provide, or expand upon, the assignment outcome.
+In this final lesson for Unit 3 you will be working with a team to create an API for drawing digital scenes.
 
 <!-- Don't edit links here, change them in _data/assignment.yml instead, -->
 
